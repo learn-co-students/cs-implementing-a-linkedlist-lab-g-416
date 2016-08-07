@@ -182,7 +182,10 @@ Now it's your turn:
 *   Next, you should fill in the two-parameter version of `add`, which takes an index and stores the new value at the given index.  Again, [read the documentation](https://docs.oracle.com/javase/7/docs/api/java/util/List.html#add(int,%20E)), write an implementation, and run the tests for confirmation.
 
 
-*  Last one: fill in both `remove` methods.  One takes the element that should be removed and returns a `boolean`; the other takes the index of the element that should be removed and returns the element.  When you get these working, all tests should pass.
+*  Last one: fill in both `remove` methods.  
+One takes the element that should be removed and returns a `boolean`; 
+the other takes the index of the element that should be removed and returns the element.  
+When you get these working, all tests should pass.
 
 
 *  Once you have your implementation working, compare it to mine, which you can find by checking out the solutions branch of the repo, or [you can read it on GitHub](https://TODO: add_this_later).
